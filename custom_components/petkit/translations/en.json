@@ -875,6 +875,9 @@
       "shortage_alarm": {
         "name": "Shortage alarm"
       },
+      "feeding_plan": {
+        "name": "Feeding plan"
+      },
       "surplus_control": {
         "name": "Surplus control"
       },
